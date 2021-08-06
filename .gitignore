@@ -1,0 +1,20 @@
+# Dependency directories
+/node_modules
+
+# Compile
+/artifacts
+/cache
+/build
+
+# OS file
+.DS_Store
+.env
+BuildFromScratch.md
+
+# Dependency lock
+package-lock.json
+yarn.lock
+/.idea
+/test/ERC20.behavior.js
+/olds
+/.env-test

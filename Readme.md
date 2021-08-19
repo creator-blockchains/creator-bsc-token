@@ -1,6 +1,6 @@
 # CreatorChain Token
-This is development repo for CreatorChain token.
-Token is ERC20 standard from [openzeppelin](https://openzeppelin.com).
+This is development repo for Creator Chain token.
+Token is BEP20 standard from [pancakeswap](https://github.com/pancakeswap/pancake-swap-lib).
 
 # Run in local
 1. Install dependencies:
